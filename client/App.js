@@ -1,5 +1,5 @@
 /**
- * Root Component
+ * Root Component //
  */
 import React from 'react';
 import { Provider } from 'react-redux';
